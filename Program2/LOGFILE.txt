@@ -1,0 +1,13 @@
+Bind Succeeded
+Connection from: ('192.168.56.1', 64573)
+Recieved message: b'this is a network connection'
+Network is in message.
+Sending quote: A problem is a chance for you to do your best.
+Connection from: ('192.168.56.1', 64574)
+Recieved message: b'network test'
+Network is in message.
+Sending quote: There are far, far better things ahead than anything we leave behind.
+Connection from: ('192.168.56.1', 64575)
+Recieved message: b'another Network test aka test 3'
+Network is in message.
+Sending quote: Believe that life is worth living and your belief will help create the fact.

@@ -1,0 +1,8 @@
+Binded
+Received connection from (IP, PORT): ('192.168.56.1', 56075)
+Received Data: version: 17 message_type: 1 length: 1280
+VERSION ACCEPTED
+Received Data: version: 17 message_type: 2 length: 1792
+VERSION ACCEPTED
+EXECUTING SUPPORTED COMMAND: LIGHTON
+DISCONNECTED

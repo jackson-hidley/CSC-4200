@@ -1,0 +1,9 @@
+Sending HELLO Packet
+VERSION ACCEPTED
+Received Message: Hello
+Sending command
+SUCCESS
+VERSION ACCEPTED
+Received Message: SUCCESS
+Command Successful
+Closing socket
